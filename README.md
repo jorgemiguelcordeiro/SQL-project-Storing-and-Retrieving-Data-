@@ -13,6 +13,14 @@ The **NOVA CP Trains** project is a **SQL-based database management system** des
 
 ---
 
+## 📺 **Project Video Highlights**
+🔗 [Watch the full video](https://youtu.be/clDh8p3XB_U)
+
+This project showcases a **comprehensive SQL system** for **efficient train management**, applying **advanced database concepts** in a **realistic use case**. 🚆💡  
+Let me know if you’d like any refinements! 🚀🔥
+---
+
+
 ## **📌 Key Features & Implementation**
 
 ### **Entity Relationship Model (ERM) & Database Design**
@@ -51,10 +59,3 @@ The **NOVA CP Trains** project is a **SQL-based database management system** des
   - **RESET Test**: To verify functional form correctness.  
   - **Referential Integrity Tests**: Ensure data consistency across tables.  
 
----
-
-## 📺 **Project Video Highlights**
-🔗 [Watch the full video](https://youtu.be/clDh8p3XB_U)
-
-This project showcases a **comprehensive SQL system** for **efficient train management**, applying **advanced database concepts** in a **realistic use case**. 🚆💡  
-Let me know if you’d like any refinements! 🚀🔥
