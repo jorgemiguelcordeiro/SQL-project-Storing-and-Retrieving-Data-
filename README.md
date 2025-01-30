@@ -53,7 +53,5 @@ The **NOVA CP Trains** project is a **SQL-based database management system** des
 🚀 **Normalization Enhancements**: Further refine **one-to-many** relationships for better efficiency.  
 🚀 **Performance Optimization**: Indexing strategies for **faster queries on large datasets**.  
 🚀 **Stored Procedures**: Automate complex calculations (e.g., **dynamic fare adjustments**).  
-🚀 **Testing & Validation**:  
-  - **RESET Test**: To verify functional form correctness.  
-  - **Referential Integrity Tests**: Ensure data consistency across tables.  
+
 
